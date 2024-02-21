@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/demo_polyline_editor.iml" filepath="$PROJECT_DIR$/.idea/demo_polyline_editor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../route_offset_polygon_demo/.idea/route_offset_polygon_demo.iml" filepath="$PROJECT_DIR$/../route_offset_polygon_demo/.idea/route_offset_polygon_demo.iml" />
     </modules>
   </component>
 </project>
